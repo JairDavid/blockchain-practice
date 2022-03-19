@@ -1,3 +1,3 @@
 # blockchain practice
 
-just practicing on blockchain and how it works "basic example"
+just practicing on simulated blockchain (understanding how it works) "basic example"
